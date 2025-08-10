@@ -1,0 +1,24 @@
+:root {
+  --primary-color: #ff4a4a; /* Red accent like logo text */
+  --text-color: #ffffff;
+  --bg-gradient: linear-gradient(135deg, #c0f2e4, #a0c5f7); /* Green → Blue gradient from logo */
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: var(--bg-gradient);
+  color: var(--text-color);
+  margin: 0;
+  padding: 0;
+}
+
+header h1 {
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: var(--primary-color);
+}
+
+header p {
+  font-size: 1.2rem;
+  color: #444; /* Slightly darker for readability */
+}

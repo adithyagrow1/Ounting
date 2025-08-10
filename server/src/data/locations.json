@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Shreemahal Fort",
+    "city": "Udaipur",
+    "short": "A scenic hill fortress with sunset views.",
+    "image": "/images/udaipur1.jpg",
+    "rating": 4.6,
+    "tags": [
+      "history",
+      "sunset"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Blue Lagoon Beach",
+    "city": "Goa",
+    "short": "White sands and lively beach shacks.",
+    "image": "/images/goa1.jpg",
+    "rating": 4.7,
+    "tags": [
+      "beach",
+      "party"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Himalayan Valley Trail",
+    "city": "Manali",
+    "short": "A calm trek with pine forests.",
+    "image": "/images/manali1.jpg",
+    "rating": 4.8,
+    "tags": [
+      "trek",
+      "nature"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Royal Palace Museum",
+    "city": "Jaipur",
+    "short": "Artefacts and royal galleries.",
+    "image": "/images/jaipur1.jpg",
+    "rating": 4.5,
+    "tags": [
+      "museum",
+      "history"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "City Food Walk",
+    "city": "Mumbai",
+    "short": "Street-side delights and local snacks.",
+    "image": "/images/mumbai1.jpg",
+    "rating": 4.4,
+    "tags": [
+      "food",
+      "culture"
+    ]
+  }
+]
